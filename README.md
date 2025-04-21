@@ -10,5 +10,10 @@
 Базовые знания в оптимизации игры (Ocullision)
 # Игры которые я завершил(или уже вышла пробная версия)
 ## "Horor Run"
+Ету игру я делал сам и представляет из себя простую хоррор игру в темном лесу 
 
 ![5296532899421610708](https://github.com/user-attachments/assets/6e0b5810-4bd4-4501-bd35-958f34e69888)
+![5296532899421610703](https://github.com/user-attachments/assets/0b35d207-7cea-46be-b39a-eb5429c3bd8c)
+![5296532899421610676](https://github.com/user-attachments/assets/27f243cf-56ef-473c-8ded-c9e8e603a3fe)
+![5296532899421610664](https://github.com/user-attachments/assets/a4ca4e47-f492-45ab-970b-cd33592d171b)
+
