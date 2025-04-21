@@ -17,3 +17,8 @@
 ![5296532899421610676](https://github.com/user-attachments/assets/27f243cf-56ef-473c-8ded-c9e8e603a3fe)
 ![5296532899421610664](https://github.com/user-attachments/assets/a4ca4e47-f492-45ab-970b-cd33592d171b)
 
+## "Legendary Beanstalk"
+Тоже простая игра платформер где игроку придется прыгать по листьям легендарного бобового стебля(К сожелению фоток из игри пока что нету)
+
+Связатся со мной: @Isco22228
+Почта: Abduvohidovisroil2009@gmail.com 
